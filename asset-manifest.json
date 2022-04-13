@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f07b968d.css",
+    "main.js": "/react-gh-pages/static/js/main.e458d856.js",
+    "static/media/Questrial-Regular.ttf": "/react-gh-pages/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
+    "static/media/Michroma-Regular.ttf": "/react-gh-pages/static/media/Michroma-Regular.c12a12d1198168c85097.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f07b968d.css.map": "/react-gh-pages/static/css/main.f07b968d.css.map",
+    "main.e458d856.js.map": "/react-gh-pages/static/js/main.e458d856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07b968d.css",
+    "static/js/main.e458d856.js"
+  ]
+}
